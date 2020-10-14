@@ -40,5 +40,4 @@
 * [The Token Capacitor](technical-manual/the-token-capacitor.md)
 * [Slate Governance](technical-manual/slate-governance.md)
 * [Disputes App](technical-manual/disputes-app.md)
-* [Original Whitepaper \(Outdated\)](technical-manual/original-whitepaper-outdated.md)
 
