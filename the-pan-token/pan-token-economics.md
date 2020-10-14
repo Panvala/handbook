@@ -12,7 +12,7 @@ There are three portions of the token supply to keep in mind:
 
 A key difference from Bitcoin's model is that in Panvala, **all donations go back into the decaying supply**. That means the supply curve doesn't project the actual circulating supply in the future, it projects the _maximum_ supply. In reality, every donation reduces the actual circulating supply.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 In the long run, the flow of donations puts downward pressure on the circulating supply that fluctuates based on economic conditions. The  model in the chart above reaches equilibrium at an annual budget around 1,000,000 PAN. At that point, there are no inflation subsidies available: for every token going into the token supply as a donation, there's one token coming out as inflation. This is similar to the end goal for the Bitcoin network to rely only on transaction fees instead of block rewards.
 
