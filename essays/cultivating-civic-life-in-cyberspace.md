@@ -8,7 +8,7 @@ We don’t live in a society where everyone is part of a civic association anymo
 
 It’s time to give the civic sector of our society the economic tools it needs to compete with our public sector and our corporate sector, and restore our civic life that has been crowded out of contention.
 
-![](../.gitbook/assets/200525_civiclife02_deliver_small.png)
+![](../.gitbook/assets/cyberspace_deliver.png)
 
 This year has felt like waking up with an unsettling feeling that something is deeply wrong. Lots of things are wrong, really. Economies in the developed world have been stagnating since the 2008 financial crisis—in some countries, even earlier. For many of us, our governments are functioning much worse than they have in the past. While the signs of stagnation and decline have been popping up for decades, watching societies fail to handle the challenges that 2020 has thrown our way has been the clearest red flag. We have work to do. But what is to be done?
 
