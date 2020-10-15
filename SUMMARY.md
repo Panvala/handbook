@@ -40,6 +40,7 @@
 * [Smart Contracts](technical-manual/smart-contracts/README.md)
   * [The Token Capacitor](technical-manual/smart-contracts/the-token-capacitor.md)
   * [Slate Governance](technical-manual/smart-contracts/slate-governance.md)
+  * [The Parameter Store](technical-manual/smart-contracts/the-parameter-store.md)
   * [Upgradeability and Error Recovery](technical-manual/smart-contracts/upgradeability-and-error-recovery.md)
 * [Disputes App](technical-manual/disputes-app.md)
 
