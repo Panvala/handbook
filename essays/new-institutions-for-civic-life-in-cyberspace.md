@@ -1,3 +1,7 @@
+---
+description: 'Niran Babalola, May 27, 2020'
+---
+
 # New Institutions for Civic Life in Cyberspace
 
 ![](../.gitbook/assets/200525_civiclife02_deliver_small%20%281%29.png)
