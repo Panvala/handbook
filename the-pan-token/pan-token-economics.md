@@ -29,7 +29,7 @@ The model in the chart above reaches equilibrium at an annual budget around 1,00
 To get an idea of what these fluctuations look like, consider the inflation for the past few quarters. The value of PAN increased through each quarter, but between July 3 and October 10, PAN's price increase outpaced the increase in the value of the donations. As a result, the quantity of PAN donated decreased from 355,105 to 158,206 even though the dollar value of those donations increased. The **maximum inflation** allowed by Panvala's smart contracts _decreases_ each quarter, but since donated PAN are removed from the circulating supply, the **net inflation** actually _increased_ between those two quarters!
 
 {% hint style="info" %}
-When the price of PAN rises faster than the flow of donations, the **net inflation** rises as well. As the market decides how to value PAN, we expect that sort of volatility to decrease, and the trajectory of Panvala's inflation will stabilize, as will its multiplier.
+When the price of PAN _rises_ faster than the flow of donations, the **net inflation** rises as well. Similarly, when the price of PAN _falls_ faster than the flow of donations, the net inflation decreases. As the market decides how to value PAN, we expect that sort of volatility to decrease, and the trajectory of Panvala's inflation will stabilize, as will its multiplier.
 {% endhint %}
 
 ## Endgame
