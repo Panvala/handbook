@@ -18,7 +18,7 @@ A key difference from Bitcoin's model is that in Panvala, **all donations go bac
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-The model in the chart above reaches equilibrium at an annual budget around 1,000,000 PAN. In the long run, the flow of donations puts downward pressure on the circulating supply that fluctuates based on economic conditions. Those fluctuations are a result of changes in the value of PAN, and changes in the flow of donations.
+The model in the chart above reaches equilibrium at an annual budget around 1,000,000 PAN that can be sustained indefinitely. In the long run, the flow of donations puts downward pressure on the circulating supply that fluctuates based on economic conditions. Those fluctuations are a result of changes in the value of PAN, and changes in the flow of donations.
 
 | Batch | End of Donations | PAN Price | PAN Donated | Value Donated | Multiplier | Max Inflation | Net Inflation | Net Inflation % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
