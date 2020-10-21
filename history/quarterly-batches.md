@@ -90,8 +90,7 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left">First and only Panvala poll. This poll evolved into the staking system
-        we use today.</td>
+      <td style="text-align:left">First Panvala poll. This poll evolved into the staking system we use today.</td>
     </tr>
     <tr>
       <td style="text-align:left">Batch 4</td>
