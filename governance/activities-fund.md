@@ -25,6 +25,10 @@ Here are a few ways the Activities Fund differs from the Panvala League:
 
 The Activities Fund's grants are evaluated on event attendance and participation. Unlike the Panvala League's funding that comes from donation matching, Activities Fund grants don't have any fundraising requirements. If people are showing up to your events, it's a success! Bonus points if the attendees are members of communities in the Panvala League, and even more bonus points if the attendees are members of the Activities Fund itself.
 
+### Do I have to be a member of a Panvala League community to apply for Activities Fund grants?
+
+No, anyone can apply for Activities Fund grants. Note that grants are evaluated based on attendance and participation. Events that draw more attendance from within the Panvala League and Activities Fund members will receive higher ratings.
+
 ### Can Panvala League communities apply for Activities Fund grants as well?
 
 Yes! We encourage the Panvala League's communities to apply for Activities Fund grants for any events that are open to the public.
