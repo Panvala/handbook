@@ -27,7 +27,7 @@ The Activities Fund's grants are evaluated on event attendance and participation
 
 ### Do I have to be a member of a Panvala League community to apply for Activities Fund grants?
 
-No, anyone can apply for Activities Fund grants. Note that grants are evaluated based on attendance and participation. Events that draw more attendance from within the Panvala League and Activities Fund members will receive higher ratings.
+No, anyone can apply for Activities Fund grants. Note that grants are evaluated based on attendance and participation. Events that draw more attendance from within the Panvala League and Activities Fund members will receive higher ratings, but attendance from outside Panvala counts, too.
 
 ### Can Panvala League communities apply for Activities Fund grants as well?
 
