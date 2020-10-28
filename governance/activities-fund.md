@@ -1,6 +1,6 @@
 # Activities Fund
 
-The Activities Fund is a member-run portion of Panvala's budget focused on social life. It awards grants for events, arts, and \(e-\)sports that bring people together across Panvala’s communities, especially members of the Activities Fund itself. It's modeled on university student governments that fund social life on campuses. These grants are usually used for prizes or food \(for in-person events\) for attendees.
+The Activities Fund is a member-run portion of Panvala's budget focused on social life. It awards grants for events, arts, and \(e-\)sports that bring people together across Panvala’s communities, especially members of the Activities Fund itself. It's modeled on university student governments that fund social life on campuses. These grants are usually used for prizes or food \(for in-person events\) to encourage higher attendance at events.
 
 To choose which future events should receive funding, [join the Activities Fund on the Panvala Discord server](https://discord.gg/yZmYZbf)! The first set of signers for the Activities Fund multisig will be chosen by December 1 by each person on Discord who holds at least 100 PAN. Once we’ve chosen signers, the Activities Fund members will have through January 29 to which grants to award. PAN tokens will be released to the Activities Fund multisig from Panvala’s inflation on January 29.
 
