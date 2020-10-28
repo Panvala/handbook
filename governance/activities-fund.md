@@ -9,7 +9,7 @@ To choose which future events should receive funding, [join the Activities Fund 
 | Date | Event | Applicant | Grant | Purpose |
 | :--- | :--- | :--- | :--- | :--- |
 | Tuesdays at 8:30 pm \(New York\) | [DAO Book Club](https://discord.gg/dtUVKAc) | DAO Book Club \(Aaron Soskin\) | 1000 PAN per event | Raffle |
-| Wednesday, October 28 at 3 pm \(New York\) | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 6000 PAN | Raffle, Prizes |
+| Wednesdays at 3 pm \(New York\) | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 6000 PAN per event | Raffle, Prizes |
 
 ## FAQ
 
