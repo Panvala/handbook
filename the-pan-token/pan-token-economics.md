@@ -40,5 +40,5 @@ Once the circulating supply reaches equilibrium in a decade or two, there are no
 
 Over time, Panvala will approach its maximum supply, and the inflation subsidies will decrease. Our hypothesis is that we could have a decade or two of healthy inflation subsidies before they taper off. That’s why Panvala doesn’t just pursue inflation subsidies for communities: we pursue all possible subsidies for communities. As the inflation subsidies taper off, we aim to build up corporate sponsorships to keep funding flowing to Panvala League communities. That’s what makes Panvala the **sustainable** treasury for communities to share: our approach can keep subsidies flowing in perpetuity.
 
-As a result, the share of PAN you hold is the share of Panvala's subsidies your communities will be able to enjoy in perpetuity. If BTC is digital gold and ETH is digital oil, **PAN is the digital endowment that we create together**.
+As a result, the share of PAN you hold is the share of Panvala's subsidies that your communities will be able to enjoy in perpetuity. If BTC is digital gold and ETH is digital oil, **PAN is a digital endowment for your communities**.
 
