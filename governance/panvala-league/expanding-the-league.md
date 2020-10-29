@@ -38,7 +38,7 @@ New communities will be evaluated by the existing communities based on several f
 
 The week before donations begin, all Panvala League communities will be encouraged to stake PAN to earn donation matching capacity for their communities. PAN can be staked through the end of the donation matching round, but staking before donations start makes it easier for us to teach our communities about staking and donations separately.
 
-PAN can be staked by individual community members or by a community wallet that holds PAN. The amount of PAN to stake depends on the share of the quarterly inflation you want to earn. In October, 5,288,129 PAN was staked in total, so a good guideline for next quarter is to decide what percentage of the Panvala League's 1,311,990 PAN of inflation your community would like to earn, then stake that same percentage of 5,288,129 PAN.
+PAN can be staked by individual community members or by a community wallet that holds PAN. The amount of PAN to stake depends on the share of the quarterly inflation you want to earn. **Any amount of staked PAN is fine for your first round**: it's easier to understand how much PAN you need by adjusting after each round. In October, 5,288,129 PAN was staked in total, so a good guideline for next quarter is to decide what percentage of the Panvala League's 1,311,990 PAN of inflation your community would like to earn, then stake that same percentage of 5,288,129 PAN.
 
 ## **Donate With PAN on Gitcoin Grants**
 
