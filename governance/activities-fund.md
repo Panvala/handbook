@@ -2,14 +2,15 @@
 
 The Activities Fund is a member-run portion of Panvala's budget focused on social life. It awards grants for events, arts, and \(e-\)sports that bring people together across Panvala’s communities, especially members of the Activities Fund itself. It's modeled on university student governments that fund social life on campuses. These grants are usually used for prizes or food \(for in-person events\) to encourage higher attendance at events.
 
-To choose which future events should receive funding, [join the Activities Fund on the Panvala Discord server](https://discord.gg/yZmYZbf)! The first set of signers for the [Activities Fund multisig](https://gnosis-safe.io/app/#/safes/0xe44f10A925411A3a0086E5EDba8A4399C6F75ad6/transactions) will be chosen by December 1 by each person on Discord who holds at least 100 PAN. Once we’ve chosen signers, the Activities Fund members will have through January 29 to which grants to award. PAN tokens will be released to the Activities Fund multisig from Panvala’s inflation on January 29.
+To choose which future events should receive funding, [join the Activities Fund on the Panvala Discord server](https://discord.gg/yZmYZbf)! The first set of signers for the [Activities Fund multisig](https://gnosis-safe.io/app/#/safes/0xe44f10A925411A3a0086E5EDba8A4399C6F75ad6/transactions) will be chosen by December 1 by each person on Discord who holds at least 1000 PAN. Once we’ve chosen signers, the Activities Fund members will have through January 29 to which grants to award. PAN tokens will be released to the Activities Fund multisig from Panvala’s inflation on January 29.
 
 ## Upcoming Events
 
-| Date | Event | Applicant | Grant | Purpose |
+| Date \(US/Eastern\) | Event | Applicant | Grant | Purpose |
 | :--- | :--- | :--- | :--- | :--- |
-| Tuesdays at 8:30 pm \(New York\) | [DAO Book Club](https://discord.gg/dtUVKAc) | DAO Book Club \(Aaron Soskin\) | 1000 PAN per event | Raffle |
-| Wednesdays at 3 pm \(New York\) | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 6000 PAN per event | Raffle, Prizes |
+| Tuesdays at 8:30 pm | [DAO Book Club](https://discord.gg/dtUVKAc) | DAO Book Club \(Aaron Soskin\) | 1000 PAN per event | Raffle |
+| Wednesdays at 3 pm | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 6000 PAN per event | Raffle, Prizes |
+| Thursdays at 7 pm | [Coinosis](https://coinosis.co/) Developers Circle \(Spanish\) | Coinosis \(Juan David Reyes\) | 1600 PAN per event | Prizes |
 
 ## FAQ
 
