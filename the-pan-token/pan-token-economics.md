@@ -8,9 +8,9 @@ Panvala’s matching funds don’t come from a foundation or wealthy benefactors
 
 There are three portions of the token supply to keep in mind:
 
-* The **circulating supply** consists of the tokens that have already been allocated \(46,913,127 PAN as of October 13\).
-* The **decaying supply** consists of the tokens that are locked and released with a half-life of four years, the same half-life as Bitcoin uses \(43,086,872 PAN as of October 13\).
-* The **reserved supply** consists of 10 million PAN that the token holders can allocate as needed. This is intended for exceptional opportunities to expand Panvala that cannot be achieved with the quarterly inflation. \(10,000,000 PAN as of October 13\)
+* The **circulating supply** consists of the tokens that have already been allocated \(48,581,501 PAN as of November 1\).
+* The **decaying supply** consists of the tokens that are locked and released with a half-life of four years, the same half-life as Bitcoin uses \(41,418,499 PAN as of November 1\).
+* The **reserved supply** consists of 10 million PAN that the token holders can allocate as needed. This is intended for exceptional opportunities to expand Panvala that cannot be achieved with the quarterly inflation. \(10,000,000 PAN as of November 1\)
 
 ## Net Inflation
 
