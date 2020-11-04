@@ -11,6 +11,7 @@ To choose which future events should receive funding, [join the Activities Fund 
 | Tuesdays at 8:30 pm | [DAO Book Club](https://discord.gg/dtUVKAc) | DAO Book Club \(Aaron Soskin\) | 1000 PAN per event | Raffle |
 | Wednesdays at 3 pm | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 6000 PAN per event | Raffle, Prizes |
 | Thursdays at 7 pm | [Coinosis](https://coinosis.co/) Developers Circle \(Spanish\) | Coinosis \(Juan David Reyes\) | 1600 PAN per event | Prizes |
+| Thursday, November 19 at 1 pm | [MetaSpace Speaker Series](https://twitter.com/MetaSpace_Now/status/1322642939210829829) | MetaSpace \(Yalor Arnold\) | 1500 PAN | Discounted tickets |
 
 ## FAQ
 
