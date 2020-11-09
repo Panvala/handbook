@@ -8,6 +8,7 @@ To choose which future events should receive funding, [join the Activities Fund 
 
 | Date \(US/Eastern\) | Event | Applicant | Grant | Purpose |
 | :--- | :--- | :--- | :--- | :--- |
+| Tuesday, November 10 at 10 am | [Panvala League Community Updates](https://discord.gg/avt42jJsap) | Panvala League | 1000 PAN | Raffle |
 | Tuesdays at 8:30 pm | [DAO Book Club](https://discord.gg/dtUVKAc) | DAO Book Club \(Aaron Soskin\) | 1000 PAN per event | Raffle |
 | Wednesdays at 3 pm | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 2100 PAN per event | Raffle, Prizes |
 | Thursdays at 7 pm | [Coinosis](https://coinosis.co/) Developers Circle \(Spanish\) | Coinosis \(Juan David Reyes\) | 1600 PAN per event | Prizes |
