@@ -1,5 +1,7 @@
 # Getting Started
 
+{% embed url="https://www.youtube.com/watch?v=E1x7HnN3aCM" %}
+
 Welcome to Panvala! **Panvala is the sustainable treasury for communities to share.** The share of PAN you hold is the share of Panvala's subsidies that your communities can enjoy in perpetuity. If BTC is digital gold and ETH is digital oil, **PAN is a digital endowment** for your community.
 
 There are currently sixteen communities in the Panvala League who allocate 75% of Panvala’s quarterly inflation using donation matching, with [10.26x matching last quarter.](https://forum.panvala.com/t/panvala-league-funding-recap-for-batch-eight-september-2020/229) We believe that Panvala’s treasury grows stronger the more we share it, so we aim to grow the Panvala League from sixteen communities to thousands.

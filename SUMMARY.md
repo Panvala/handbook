@@ -22,7 +22,6 @@
 
 ## 📢 Essays and Talks <a id="essays"></a>
 
-* [Panvala in Three Minutes](essays/panvala-in-three-minutes.md)
 * [A Vision of Hope](essays/a-vision-of-hope.md)
 * [Be The Light \(The Panvala Launch Speech\)](essays/be-the-light-the-panvala-launch-speech.md)
 * [Cultivating Civic Life in Cyberspace](essays/cultivating-civic-life-in-cyberspace.md)
