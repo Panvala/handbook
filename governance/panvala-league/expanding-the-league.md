@@ -25,7 +25,7 @@ With community funds, communities raise funds that are spent later using a proce
 
 ## **Apply to Join the Panvala League**
 
-The Panvala League currently has 25 communities. New communities that want to join the league should try to earn a recommendation from the existing League communities. The [Panvala Caucus](../panvala-caucus.md) considers the League’s opinion when making its quarterly budget recommendations to the PAN token holders, who make all final budget decisions in Panvala.
+The Panvala League currently has 27 communities. New communities that want to join the league should try to earn a recommendation from the existing League communities. The [Panvala Caucus](../panvala-caucus.md) considers the League’s opinion when making its quarterly budget recommendations to the PAN token holders, who make all final budget decisions in Panvala.
 
 New communities will be evaluated by the existing communities based on several factors:
 
