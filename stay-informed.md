@@ -2,7 +2,7 @@
 
 ## Events
 
-The best way to dive into Panvala is to hang out with us! Here are calendars for Panvala-wide events, and events from communities in the Panvala League. Visit [panvala.com/events](https://panvala.com/events/) to see all of the upcoming events around Panvala's communities.
+The best way to dive into Panvala is to hang out with us! Here are calendars for Panvala-wide events, and events from communities in the Panvala League. Visit [panvala.com/events](https://panvala.com/events/) to see all of the upcoming events around Panvala's communities. You can subscribe to those calendars to get all of Panvala's events to show up on your personal calendar.
 
 ## Twitter
 
