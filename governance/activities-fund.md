@@ -6,6 +6,10 @@ To choose which future events should receive funding, [join the Activities Fund 
 
 ## Upcoming Events
 
+{% embed url="https://panvala.eventcalendarapp.com/" %}
+
+
+
 | Date \(US/Eastern\) | Event | Applicant | Grant | Purpose |
 | :--- | :--- | :--- | :--- | :--- |
 | Tuesday, November 10 at 10 am | [Panvala League Community Updates](https://discord.gg/yZmYZbf) | Panvala League | 1000 PAN | Raffle |
@@ -15,6 +19,12 @@ To choose which future events should receive funding, [join the Activities Fund 
 | Thursdays at 7 pm | [Coinosis](https://coinosis.co/) Developers Circle \(Spanish\) | Coinosis \(Juan David Reyes\) | 1600 PAN per event | Prizes |
 | Thursday, November 19 at 1 pm | [MetaSpace Speaker Series](https://twitter.com/MetaSpace_Now/status/1322642939210829829) | MetaSpace \(Yalor Arnold\) | 1500 PAN | Discounted tickets |
 | Tuesday, November 10 at 10 am | [Panvala League Community Updates](https://discord.gg/yZmYZbf) | Panvala League | 1000 PAN | Raffle |
+
+## Grant History
+
+{% embed url="https://docs.google.com/spreadsheets/d/18hJ3gXxrs--Bzucw7d8VXXww2wZh3eN75Akn1qNR4fI/edit?usp=sharing" %}
+
+
 
 ## FAQ
 
