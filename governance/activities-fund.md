@@ -6,19 +6,7 @@ To choose which future events should receive funding, [join the Activities Fund 
 
 ## Upcoming Events
 
-{% embed url="https://panvala.eventcalendarapp.com/" %}
-
-
-
-| Date \(US/Eastern\) | Event | Applicant | Grant | Purpose |
-| :--- | :--- | :--- | :--- | :--- |
-| Tuesday, November 10 at 10 am | [Panvala League Community Updates](https://discord.gg/yZmYZbf) | Panvala League | 1000 PAN | Raffle |
-| Tuesdays at 2 pm | Governing the Commons with [DAO Book Club](https://discord.com/invite/dtUVKAc) | DAO Book Club \(Livia Deschermayer\) | 1000 PAN per event | Raffle |
-| Tuesdays at 8:30 pm | The Federalist Papers with [DAO Book Club](https://discord.gg/dtUVKAc) | DAO Book Club \(Aaron Soskin\) | 1000 PAN per event | Raffle |
-| Wednesdays at 3 pm | [Circles UBI Poker](https://docs.google.com/document/d/1BgISfWdKPJRtcfcxuWwMtG7p-lhhKW4sQnJZ1JrSDWk/edit) | Niran Babalola | 2100 PAN per event | Raffle, Prizes |
-| Thursdays at 7 pm | [Coinosis](https://coinosis.co/) Developers Circle \(Spanish\) | Coinosis \(Juan David Reyes\) | 1600 PAN per event | Prizes |
-| Thursday, November 19 at 1 pm | [MetaSpace Speaker Series](https://twitter.com/MetaSpace_Now/status/1322642939210829829) | MetaSpace \(Yalor Arnold\) | 1500 PAN | Discounted tickets |
-| Tuesday, November 10 at 10 am | [Panvala League Community Updates](https://discord.gg/yZmYZbf) | Panvala League | 1000 PAN | Raffle |
+Visit [panvala.com/events](https://panvala.com/events/) to see all of the upcoming Actvities Fund events, as well as events around Panvala's communities.
 
 ## Grant History
 
