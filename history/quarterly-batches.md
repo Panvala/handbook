@@ -12,6 +12,23 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Batch 9</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Donations close Dec 17, 2020</li>
+          <li>Inflation released Jan 29, 2021</li>
+        </ul>
+      </td>
+      <td style="text-align:left">1,755,937 PAN</td>
+      <td style="text-align:left">
+        <ul>
+          <li><a href="https://forum.panvala.com/t/the-panvala-caucuss-batch-nine-recommendations/234">Recommendation</a>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:left">Panvala League expanded to 27 communities</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Batch 8</td>
       <td style="text-align:left">
         <ul>
