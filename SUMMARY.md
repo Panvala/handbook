@@ -15,6 +15,7 @@
 * [Governance Overview](governance/governance-overview.md)
 * [Panvala League](governance/panvala-league/README.md)
   * [Expanding the League](governance/panvala-league/expanding-the-league.md)
+  * [Coalitions](governance/panvala-league/coalitions.md)
   * [Scoreboard Rules](governance/panvala-league/scoreboard-rules.md)
 * [Activities Fund](governance/activities-fund.md)
 * [Panvala Fellows](governance/panvala-fellows.md)
