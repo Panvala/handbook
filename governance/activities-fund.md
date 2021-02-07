@@ -2,11 +2,15 @@
 
 The Activities Fund is a member-run portion of Panvala's budget focused on social life. It awards grants for events, arts, and \(e-\)sports that bring people together across Panvala’s communities, especially members of the Activities Fund itself. It's modeled on university student governments that fund social life on campuses. These grants are usually used for prizes or food \(for in-person events\) to encourage higher attendance at events.
 
-To choose which future events should receive funding, [join the Activities Fund on the Panvala Discord server](https://discord.gg/yZmYZbf)! The first set of signers for the [Activities Fund multisig](https://gnosis-safe.io/app/#/safes/0xe44f10A925411A3a0086E5EDba8A4399C6F75ad6/transactions) will be chosen in January by the **stewards**: each person on Discord who holds at least 1000 PAN and opts in to run the Activites Fund. Once we’ve chosen signers, the Activities Fund stewards will have through January 29 to which grants to award. PAN tokens will be released to the Activities Fund multisig from Panvala’s inflation on January 29.
+To choose which future events should receive funding, [join the Activities Fund on the Panvala Discord server](https://discord.gg/yZmYZbf)! There are three kinds of participants in the Activities Fund:
+
+1. **Applicants:** Anyone can apply for a grant for their events by sending a message in our Discord's \#activities-fund channel.
+2. **Stewards:** Individual PAN owners who want to influence grants can become stewards. Send "!join" in the \#activities-fund channel. The Collab.Land bot will help you connect your wallet and grant access to the \#activities-stewards private channel. 1000 PAN is the minimum balance required. _Grant applicants want their event attendees to become stewards so they can earn more grants!_
+3. **Signers:** The signers for the [Activities Fund multisig](https://gnosis-safe.io/app/#/safes/0xe44f10A925411A3a0086E5EDba8A4399C6F75ad6/transactions) send the PAN for grants. The first Activities Fund grant applicants became the first multisig signers. In the future, signers will be periodically elected by the stewards.
 
 ## Upcoming Events
 
-Visit [panvala.com/events](https://panvala.com/events/) to see all of the upcoming Actvities Fund events, as well as events around Panvala's communities.
+Visit [panvala.com/events](https://panvala.com/events/) to see all of the upcoming Activities Fund events, as well as events around Panvala's communities.
 
 ## Grant History
 
