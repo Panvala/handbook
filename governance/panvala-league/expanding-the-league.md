@@ -6,7 +6,7 @@ The first step to expanding the Panvala League is for a community to ask to join
 #### [Apply to Join the League](mailto:caucus@panvala.com?subject=We%20want%20to%20join%20the%20Panvala%20League!)
 {% endhint %}
 
-The existing Panvala League communities decide which expansion communities to admit or reject, and the next batch of evaluations will happen around November 20. For an example of how the process works, read [How We Admitted WhalerDAO to the Panvala League](https://forum.panvala.com/t/how-we-admitted-whalerdao-to-the-panvala-league/221).
+The existing Panvala League communities decide which expansion communities to admit or reject, and the next batch of evaluations happens twice per quarter. For an example of how the process works, read [How We Admitted WhalerDAO to the Panvala League](https://forum.panvala.com/t/how-we-admitted-whalerdao-to-the-panvala-league/221).
 
 To prepare for your first round, your community needs to:
 
