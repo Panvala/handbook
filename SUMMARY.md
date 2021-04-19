@@ -38,7 +38,6 @@
 ## ⚙️ Technical Manual
 
 * [Contributing to Panvala](technical-manual/contributing-to-panvala.md)
-* [Scoreboard App](technical-manual/scoreboard-app.md)
 * [Smart Contracts](technical-manual/smart-contracts/README.md)
   * [The Token Capacitor](technical-manual/smart-contracts/the-token-capacitor.md)
   * [Slate Governance](technical-manual/smart-contracts/slate-governance.md)
