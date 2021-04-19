@@ -21,4 +21,9 @@ Here are the four coalitions that have formed within the Panvala League:
   * Meta Gamma Delta
   * Women of Crypto Art
   * \* _needs at least three members to qualify for the bonus coalition funding_
+* Future of Work Coalition \(Leader: Yalor\)
+  * Gitcoin
+  * DAOhaus
+  * RaidGuild
+  * MetaGame
 
