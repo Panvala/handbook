@@ -19,7 +19,6 @@
   * [Scoreboard Rules](governance/panvala-league/scoreboard-rules.md)
 * [Activities Fund](governance/activities-fund.md)
 * [Panvala Fellows](governance/panvala-fellows.md)
-* [Panvala Caucus](governance/panvala-caucus.md)
 * [PAN Token Voting](governance/pan-token-voting.md)
 
 ## 📢 Essays and Talks <a id="essays"></a>

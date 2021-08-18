@@ -8,9 +8,9 @@ The best way to dive into Panvala is to hang out with us! Here are calendars for
 
 Following [@PanvalaHQ on Twitter](https://twitter.com/PanvalaHQ) is the best way to keep up with what's going on in Panvala!
 
-## The Panvala Forum
+## The Token Holders Association \(THA\) Forum
 
-[The Panvala Forum](https://forum.panvala.com/) is where detailed updates on what's going on with Panvala are posted. Sign up for the forum to get email notifications every time there's a new post.
+[The THA Forum](https://tha.panvala.com/) is where individuals from across Panvala's communities come together to socialize and discuss governance proposals. Sign up for the forum to get email notifications every time there's a new post.
 
 ## Discord
 

@@ -11,7 +11,7 @@ Panvala is run by our communities and by people like you. When you hold PAN toke
 Communities in the [Panvala League](governance/panvala-league/) stake PAN tokens to earn donation matching capacity from Panvala's inflation. The existing communities in the League have a strong influence over which communities to add to the League.
 
 {% hint style="info" %}
-#### [Apply to Join the League](mailto:caucus@panvala.com?subject=We%20want%20to%20join%20the%20Panvala%20League!)
+#### [Apply to Join the League](mailto:membership@panvala.com?subject=We%20want%20to%20join%20the%20Panvala%20League!)
 {% endhint %}
 
 ### Step 2: Stake Tokens
@@ -42,11 +42,11 @@ Holding PAN tokens is required to influence decisions on how we allocate Panvala
 #### [Join \#activities-fund in the Panvala Discord](https://discord.gg/yZmYZbf)
 {% endhint %}
 
-### Step 3: Join the Caucus
+### Step 3: Join the Token Holders Association
 
-Want to be even more involved? Join the [Panvala Caucus](governance/panvala-caucus.md)! The Caucus is Panvala’s version of Ethereum’s Core Devs: we make recommendations that Panvala can accept or reject. We need all the help we can get from active PAN holders to help Panvala achieve its mission.
+Want to be even more involved? Join the Token Holders Association \(THA\)! The THA Forum is where individuals from across Panvala's communities come together to socialize and discuss governance proposals. We need all the help we can get from active PAN holders to help Panvala achieve its mission.
 
 {% hint style="info" %}
-#### [Email the Caucus](mailto:caucus@panvala.com?subject=I%20want%20to%20join%20the%20Panvala%20Caucus!)
+#### [Join the THA](https://tha.panvala.com/)
 {% endhint %}
 
