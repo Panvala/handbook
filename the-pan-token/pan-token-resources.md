@@ -14,11 +14,7 @@ View token transfer activity for PAN on [Etherscan](https://etherscan.io/token/0
 
 ## Uniswap
 
-Exchange PAN tokens on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xd56dac73a4d6766464b38ec6d91eb45ce7457c44).
-
-## Mesa
-
-Place limit orders to set your own price for PAN on DXdao's [Mesa](https://mesa.eth.link/).
+Exchange PAN tokens on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xd56dac73a4d6766464b38ec6d91eb45ce7457c44&use=V2).
 
 
 
